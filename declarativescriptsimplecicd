@@ -1,3 +1,5 @@
+	currentBuild.displayName = "Samira-Shopping-#"+currentBuild.number
+	
 	pipeline{
 	agent any
 
